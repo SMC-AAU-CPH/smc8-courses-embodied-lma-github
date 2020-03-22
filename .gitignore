@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+Builds/
+JuceLibraryCode/
+*.jucer
+*.reapeaks
+bin/
+obj/
+addons.make
+icon.rc
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+current/
+saved/
+.vs/
