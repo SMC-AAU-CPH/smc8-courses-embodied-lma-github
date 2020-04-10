@@ -11,6 +11,6 @@ Some implementations of computational Laban Movement Analysis (LMA)
 
 - Unity1: Kinect-based implementation in Unity C#. By Eoin Rafferty, 2019.
 
-- Max/MSP: Check the fantastic GIMLet https://github.com/federicoVisi/GIMLeT by [[Federico Visi][http://www.federicovisi.com/]]
+- Max/MSP: Check the fantastic GIMLet https://github.com/federicoVisi/GIMLeT by [Federico Visi](http://www.federicovisi.com/)
 
 All implementations are based on the review contained in C. Larboulette and S. Gibet, "A review of computable expressive descriptors of human motion," in *Proceedings of the 2nd International Workshop on Movement and Computing*, 2015, pp. 21–28, https://doi.org/10.1145/2790994.2790998.
