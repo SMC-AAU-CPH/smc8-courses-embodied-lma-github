@@ -1,6 +1,8 @@
 # smc-lma-EI-Spring2020
 Some implementations of computational Laban Movement Analysis (LMA)
 
+- OpenPose + p5.js: Juan Alonso's library lma5 https://github.com/juanalonso/lma5 (only 7.5 kB in size!)
+
 - OpenFrameworks: C++ real-time implementation that fetches Leap Motion Data (smoothed or unsmoothed), computes low-level kinematic descriptors (velocity, acceleration, jerk) and Laban Effort descriptors (Weight, Time, Flow, Space) for 12 joints (5 fingertips and palm position for both hands) and sends them via OSC. Dependencies: Leap Motion Orion Beta 4.0.0 (LeapC API), OpenFrameworks 0.11.0. By Francesco Bigoni.
 
 - Processing:  Movement driven ambient sounds for relaxation enhancement and feedback during a movement exercise, by Lars Schalkwijk, 2016. Note: the data folder removed so it may not work in Processing directly.
