@@ -4,7 +4,7 @@ Some implementations of computational Laban Movement Analysis (LMA)
 - OpenPose + p5.js: Juan Alonso's library lma5 https://github.com/juanalonso/lma5 (only 7.5 kB in size!)
   Online Demos:
   - [lma5 - PoseNet example](https://neuronasmuertas.com/lma5/examples/posenet)
-  - [Nighstcape](https://neuronasmuertas.com/lma5/examples/nightscape.html) A simple echosystem that reacts to user's movement.
+  - [Nighstcape](https://neuronasmuertas.com/lma5/examples/nightscape.html) A simple ecosystem that reacts to user's movement.
 
 - OpenFrameworks: C++ real-time implementation that fetches Leap Motion Data (smoothed or unsmoothed), computes low-level kinematic descriptors (velocity, acceleration, jerk) and Laban Effort descriptors (Weight, Time, Flow, Space) for 12 joints (5 fingertips and palm position for both hands) and sends them via OSC. Dependencies: Leap Motion Orion Beta 4.0.0 (LeapC API), OpenFrameworks 0.11.0. By Francesco Bigoni.
 
